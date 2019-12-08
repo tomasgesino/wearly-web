@@ -1,5 +1,5 @@
-.card-form {
-  margin: 3%;
+body {
+  background-color: #f1f3f6;
 }
 
 .footer {
@@ -29,6 +29,28 @@ a:hover {
 a:active {
   text-decoration: none;
   color: white;
+}
+
+button{
+  border: none;
+  background-color: white;
+  color: gray;
+}
+
+button:hover {
+  border: none;
+  background-color: white;
+  color: white;
+}
+
+.main-title {
+  margin-top: 20%;
+  font-size: 500%;
+  text-align: center;
+}
+
+.end {
+  color: red;
 }
 
 .fuck {
