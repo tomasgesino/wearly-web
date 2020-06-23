@@ -47,6 +47,13 @@ button:hover {
   margin-top: 20%;
   font-size: 500%;
   text-align: center;
+  color: white;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
 }
 
 .end {
