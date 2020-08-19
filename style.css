@@ -44,7 +44,8 @@ button:hover {
 }
 
 .main-title {
-  margin-top: 20%;
+  margin-top: 5%;
+  margin-bottom: 10%;
   font-size: 500%;
   text-align: center;
   color: white;

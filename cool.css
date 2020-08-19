@@ -152,10 +152,10 @@
 
 @keyframes color-change-2x {
   0% {
-    background: #19dcea;
+    color: #19dcea;
   }
   100% {
-    background: #b22cff;
+    color: #b22cff;
   }
 }
 
