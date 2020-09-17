@@ -1,0 +1,185 @@
+* {
+  background: #F3F3F5;
+  overflow-x: hidden;
+}
+
+.main-title{
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 96px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.outfit-title{
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 60px;
+  text-align: left;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.label-title{
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 60px;
+  text-align: center;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.wardrobe-title{
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 60px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.sub-title{
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+
+  color: #000000;
+}
+
+.navbar-custom {
+    background-color: #F3F3F5;
+}
+
+.navbar-style {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+.navbar-unselected{
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #A7A8C9;
+}
+
+.navbar-challenge {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 42px;
+
+  color: #000000;
+}
+
+.random-outfit-1 {
+  margin: 0px;
+  float: right;
+  height: 100%;
+  width: 70%;
+}
+
+.random-outfit-2 {
+  height: 100%;
+  width: 50%;
+  margin-left: 7%;
+  float: left;
+}
+
+.wardrobe-1 {
+  height: 100%;
+  width: 70%;
+  float: right;
+}
+
+.matches-1 {
+  height: 100%;
+  width: 70%;
+  float: left;
+}
+
+.wardrobe-collumn-text{
+    margin-top: 20%;
+}
+
+.upload-1 {
+  height: 100%;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.wearl-logo {
+  margin-top: 5%;
+}
+
+.instagram-title {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+
+  color: #9D45C7;
+
+}
+
+.twitter-title {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+
+  color: #45A7C7;
+}
+
+.tiktok-title {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+
+  color: #C74545;
+}
+
+.email-title {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+
+  color: #47C745;
+}
+
+.heart-bottom {
+  text-align: center;
+}
+
+.bottom-nav {
+  color: #A7A8C9;
+}
+
+.last-row {
+  margin-top: 8%;
+}
+
+a:hover {
+  color: black;
+}
+
+#second-row {
+  margin-left: 4%;
+}
