@@ -1,77 +1,112 @@
-body {
-  background-color: #f1f3f6;
+
+.navbar-custom {
+    background-color: #F3F3F5;
 }
 
-.footer {
-  background-color: #0000ff;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  font-family: 'Nanum Gothic Coding', monospace;
+.main-title{
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 96px;
+  /* identical to box height */
+
+  color: #000000;
 }
 
-a:link {
-  text-decoration: none;
-  color: white;
+.sub-title{
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+
+  color: #000000;
 }
 
-a:visited {
-  text-decoration: none;
-  color: white;
+.navbar-style {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+.navbar-unselected{
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #A7A8C9;
+}
+
+.navbar-challenge {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 42px;
+
+  color: #000000;
+}
+
+.wearl-logo {
+  margin-top: 5%;
+}
+
+.instagram-title {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+
+  color: #9D45C7;
+
+}
+
+.twitter-title {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+
+  color: #45A7C7;
+}
+
+.tiktok-title {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+
+  color: #C74545;
+}
+
+.email-title {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+
+  color: #47C745;
+}
+
+.heart-bottom {
+  text-align: center;
+}
+
+.bottom-nav {
+  color: #A7A8C9;
+}
+
+.last-row {
+  margin-top: 8%;
 }
 
 a:hover {
-  text-decoration: none;
-  color: white;
+  color: black;
 }
 
-a:active {
-  text-decoration: none;
-  color: white;
-}
-
-button{
-  border: none;
-  background-color: white;
-  color: gray;
-}
-
-button:hover {
-  border: none;
-  background-color: white;
-  color: white;
-}
-
-.main-title {
-  margin-top: 5%;
-  margin-bottom: 10%;
-  font-size: 500%;
-  text-align: center;
-  color: white;
-}
-
-.center {
-    margin-left: auto;
-    margin-right: auto;
-    display: block
-}
-
-.end {
-  color: red;
-}
-
-.fuck {
-  margin-top: 10%;
-}
-
-.how {
-  margin-top: 3%;
-  margin-right: 2%;
-  margin-left: 2%;
-}
-
-.beta-btn {
-  margin-top: 4%;
-  margin-left: 43%;
+#second-row {
+  margin-left: 4%;
 }
